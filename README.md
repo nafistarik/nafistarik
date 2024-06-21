@@ -1,5 +1,6 @@
 
-![I am a Frontend Developer.](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
+![I am a Frontend Developer.]![image](https://github.com/nafistarik/nafistarik/assets/87691145/d731f09b-8a51-4689-b299-bc95e4d1e4db)
+
 <h1 align="center">Hi 👋, I'm Nafis Tarik</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
