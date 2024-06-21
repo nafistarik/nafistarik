@@ -1,5 +1,5 @@
 
-![image](https://github.com/nafistarik/nafistarik/assets/87691145/d731f09b-8a51-4689-b299-bc95e4d1e4db)
+![image](https://media.licdn.com/dms/image/C4D16AQEIa0LNGrZAJw/profile-displaybackgroundimage-shrink_200_800/0/1648930920374?e=2147483647&v=beta&t=nBqdiObrdz9-Cvag17KkNyBS-U3HPckLYwp9DCvmDZ4)
 
 <h1 align="center">Hi 👋, I'm Nafis Tarik</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
