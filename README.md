@@ -1,11 +1,6 @@
 
 ![I am a Frontend Developer.](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/287733176/original/7a02b387e422f3cb607f2073a0aabf23fcf90c05/do-frontend-web-development-in-html-css-javascript.png)
 
-## Hi there 👋
-
-**nafistarik/nafistarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ### Hi there 👋, My name is Nafis Tarik.
 #### I am a Frontend Developer.
 Passionate Frontend Developer with a Bachelor of Science degree in Electronics & Telecommunication Engineering. I'm skilled at turning design ideas into user-friendly web pages. I'm excited to use my technical skills  and contribute to a dynamic development team.
