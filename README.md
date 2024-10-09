@@ -1,6 +1,5 @@
+![banner-nafistarik](https://github.com/user-attachments/assets/fe5b2f41-6349-4737-a471-adab9f76118f)
 
-![image](![banner-nafistarik](https://github.com/user-attachments/assets/94c6053c-44bb-432b-9d4f-96fa4d36ef11)
-)
 
 <h1 align="center">Hi 👋, I'm Nafis Tarik</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
