@@ -1,5 +1,5 @@
 
-![image](https://miro.medium.com/v2/resize:fit:7680/1*w2hBLGIBMaLIVABE_BtBhg.png)
+![image](https://www.linkedin.com/in/nafistarik/overlay/background-image/)
 
 <h1 align="center">Hi 👋, I'm Nafis Tarik</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
