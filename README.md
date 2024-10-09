@@ -1,5 +1,6 @@
 
-![image](https://www.linkedin.com/in/nafistarik/overlay/background-image/)
+![image](![banner-nafistarik](https://github.com/user-attachments/assets/94c6053c-44bb-432b-9d4f-96fa4d36ef11)
+)
 
 <h1 align="center">Hi 👋, I'm Nafis Tarik</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
