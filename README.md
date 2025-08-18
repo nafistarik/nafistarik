@@ -1,7 +1,12 @@
 <img src="https://github.com/user-attachments/assets/fe5b2f41-6349-4737-a471-adab9f76118f" alt="banner-nafistarik" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Nafis Tarik</h1>
-<h3 align="center">💻 Frontend Developer | MERN Stack Enthusiast | Problem Solver</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=💻+Frontend+Developer;🚀+Software+Engineer;⚡+MERN+Stack+Enthusiast;🧩+Problem+Solver" alt="Typing SVG" />
+</h3>
+
+---
 
 <p align="center">
   <a href="https://nafistarik.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
@@ -32,7 +37,7 @@
       <h3 align="center">Algo Quiz</h3>
       <div align="center">
         <a href="https://github.com/nafistarik/algo-quiz" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafistarik&repo=algo-quiz&theme=radical" alt="Project Card" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafistarik&repo=algo-quiz&bg_color=00000000" alt="Project Card" />
         </a>
         <p><strong>Next.js, RTK Query, Tailwind CSS</strong> - Real-time quiz platform with performance tracking and analytics</p>
       </div>
@@ -41,7 +46,7 @@
       <h3 align="center">E-Learning Platform</h3>
       <div align="center">
         <a href="https://github.com/nafistarik/e-learning" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafistarik&repo=e-learning&theme=radical" alt="Project Card" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafistarik&repo=e-learning&bg_color=00000000" alt="Project Card" />
         </a>
         <p><strong>Next.js, Tailwind CSS, JWT Auth</strong> - Course browsing, enrollment, and admin panel</p>
       </div>
@@ -83,8 +88,21 @@
 
 </p>
 
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafistarik&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafistarik&layout=compact&bg_color=00000000" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafistarik&theme=react-dark&bg_color=00000000&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/nafistarik/nafistarik/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
