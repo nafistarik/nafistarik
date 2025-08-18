@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=💻+Frontend+Developer+%7C+🚀+Software+Engineer;⚡+MERN+Stack+Specialist+%7C+🧩+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=💻+Frontend+Developer+%7C+🚀+Software+Engineer;⚡+MERN+Stack+Enthusiast+%7C+🧩+Problem+Solver" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -81,10 +81,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img alt="Nafis Trophy's" src="https://github-profile-trophy.vercel.app/?username=nafistarik&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/><br/>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
   <img width="49.5%" src="https://streak-stats.demolab.com?user=nafistarik&theme=radical&background=00000000" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik&no-bg=true" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik&no-bg=true" width="49.5%" />
 </p>
 
 <p align="center">
