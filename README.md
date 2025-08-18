@@ -29,6 +29,7 @@
   <img src="https://komarev.com/ghpvc/?username=nafistarik&label=Profile%20views&color=blueviolet&style=flat-square&animation=twinkle" alt="profile-views"/>
   <img src="https://img.shields.io/github/followers/nafistarik?label=Follow%20%40nafistarik&style=social" alt="GitHub followers"/>
 </p>
+<br/>
 
 ## 🚀 About Me  
 
@@ -37,6 +38,8 @@
 🛠️ **Core Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js, Express  
 📚 **Active Projects:** Developing advanced frontend systems with performance optimization  
 🔗 **Portfolio:** [nafistarik.netlify.app](https://nafistarik.netlify.app)
+
+<br/>
 
 ## 🧩 Projects You Might Like
 
@@ -62,8 +65,9 @@
     </td>
   </tr>
 </table>
+<br/>
 
-<h3 align="center">🛠️ Technologies & Tools</h3>
+## 🛠️ Technologies & Tools
 
 <h4>✅ Frontend:</h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,bootstrap,jest" alt="Frontend" />
@@ -74,22 +78,24 @@
 <h4>✅ Tools & Others:</h4>
 <img src="https://skillicons.dev/icons?i=c,cpp,git,github,figma,vercel,vscode,postman" alt="Tools & Others" /><br/>
 
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats & Streak -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=nafistarik&theme=radical&background=00000000" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafistarik&layout=compact&bg_color=00000000" alt="Top Languages" />
+  <!-- Repos per Language & Most Committed Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik&theme=vue" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik&theme=vue" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafistarik&theme=react-dark&bg_color=00000000&hide_border=true&color=58A6FF&line=9e4c98&point=FFFFFF&area=true&area_color=9e4c98" alt="Contribution Graph" width="100%"/>
 </p>
+<br/>
 
 ## 🌐 Connect With Me
 
