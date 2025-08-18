@@ -82,14 +82,11 @@
 
 <p align="center">
   <!-- GitHub Stats & Streak -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=nafistarik&theme=radical&background=00000000" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
+  <img width="49.5%" src="https://streak-stats.demolab.com?user=nafistarik&theme=radical&background=00000000" alt="GitHub Streak" />
   <!-- Repos per Language & Most Committed Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik&theme=vue" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik&theme=vue" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik&bg_color=00000000" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik&bg_color=00000000" width="49.5%" />
 </p>
 
 <p align="center">
