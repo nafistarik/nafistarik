@@ -78,8 +78,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=nafistarik&theme=radical" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=nafistarik&theme=radical&background=00000000" alt="GitHub Streak" />
+
 </p>
 
 <p align="center">
