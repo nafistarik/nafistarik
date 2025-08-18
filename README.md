@@ -99,14 +99,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/nafistarik/nafistarik/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TarikNafis27921)
