@@ -91,11 +91,20 @@
 </p><br/>
 
 ## 📊 GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafistarik&theme=transparent)
+
+`http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}`
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafistarik&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik&theme=transparent)
+
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
-  <img width="49.5%" src="https://streak-stats.demolab.com?user=nafistarik&theme=radical&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=nafistarik&background=00000000" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik" width="49.5%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik&theme=transparent" />
 </p>
 
 <p align="center">
