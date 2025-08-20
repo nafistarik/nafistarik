@@ -80,7 +80,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p>
   <a href="https://github.com/Kiran1689">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=nafistarik&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
@@ -91,12 +91,11 @@
 </p><br/>
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
   <img width="49.5%" src="https://streak-stats.demolab.com?user=nafistarik&theme=radical&background=00000000" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik&no-bg=true" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik&no-bg=true" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik" width="49.5%" />
 </p>
 
 <p align="center">
