@@ -41,32 +41,6 @@
 
 <br/>
 
-## 🧩 Projects You Might Like
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Algo Quiz</h3>
-      <div align="center">
-        <a href="https://github.com/nafistarik/algo-quiz" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafistarik&repo=algo-quiz&bg_color=00000000" alt="Project Card" />
-        </a>
-        <p><strong>Next.js, RTK Query, Tailwind CSS</strong> - Real-time quiz platform with performance tracking and analytics</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">E-Learning Platform</h3>
-      <div align="center">
-        <a href="https://github.com/nafistarik/e-learning" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafistarik&repo=e-learning&bg_color=00000000" alt="Project Card" />
-        </a>
-        <p><strong>Next.js, Tailwind CSS, JWT Auth</strong> - Course browsing, enrollment, and admin panel</p>
-      </div>
-    </td>
-  </tr>
-</table>
-<br/>
-
 ## 🛠️ Technologies & Tools
 
 <h4>✅ Frontend:</h4>
