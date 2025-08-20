@@ -26,8 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nafistarik&label=Profile%20views&color=blueviolet&style=flat-square&animation=twinkle" alt="profile-views"/>
-  <img src="https://img.shields.io/github/followers/nafistarik?label=Follow%20%40nafistarik&style=social" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=nafistarik&label=Profile%20views&color=0e75b6&style=flat-square&animation=twinkle" alt="profile-views"/>
 </p>
 <br/>
 
@@ -67,15 +66,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafistarik&theme=transparent" alt="Profile Details"  width="100%" height="230rem"/>
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik&theme=transparent" alt="Repos per Language" width="49.5%" height="200rem"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik&theme=transparent" alt="Most Used Language" width="49.5%" height="200rem" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&theme=transparent&bg_color=00000000" alt="GitHub Stats" width="49.5%" height="200rem" />
-  <img src="https://streak-stats.demolab.com?user=nafistarik&theme=transparent&background=00000000" alt="GitHub Streak" width="49.5%" height="200rem" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&theme=transparent&bg_color=00000000" alt="GitHub Stats" width="49.5%" height="220rem" />
+  <img src="https://streak-stats.demolab.com?user=nafistarik&theme=transparent&background=00000000" alt="GitHub Streak" width="49.5%" height="220rem" />
 </p>
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafistarik&theme=react-dark&bg_color=00000000&hide_border=true&color=58A6FF&line=9e4c98&point=FFFFFF&area=true&area_color=9e4c98" alt="Contribution Graph" width="100%"/>
