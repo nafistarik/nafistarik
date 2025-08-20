@@ -78,10 +78,21 @@
 <h4>✅ Tools & Others:</h4>
 <img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,figma,vercel,vscode,postman" alt="Tools & Others" /><br/>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/Kiran1689">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=nafistarik&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=nafistarik&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=nafistarik&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p><br/>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Nafis Trophy's" src="https://github-profile-trophy.vercel.app/?username=nafistarik&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/><br/>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
   <img width="49.5%" src="https://streak-stats.demolab.com?user=nafistarik&theme=radical&background=00000000" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik&no-bg=true" width="49.5%" />
