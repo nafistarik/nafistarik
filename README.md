@@ -92,25 +92,20 @@
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafistarik&theme=transparent)
-
-`http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}`
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafistarik&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik&theme=transparent)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=nafistarik&background=00000000" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik" width="49.5%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik&theme=transparent" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafistarik&theme=transparent" alt="Profile Details" />
 </p>
-
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafistarik&theme=transparent" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafistarik&theme=transparent" alt="Most Used Language"  />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&theme=transparent&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=nafistarik&theme=transparent&background=00000000" alt="GitHub Streak"/>
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafistarik&theme=react-dark&bg_color=00000000&hide_border=true&color=58A6FF&line=9e4c98&point=FFFFFF&area=true&area_color=9e4c98" alt="Contribution Graph" width="100%"/>
 </p>
-<br/>
 
 ## 🌐 Connect With Me
 
