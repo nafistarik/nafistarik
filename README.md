@@ -21,7 +21,6 @@
 - 📚 **Active Projects:** Developing advanced frontend systems with performance optimization  
 - 🔗 **Portfolio:** [nafistarik.netlify.app](https://nafistarik.netlify.app)
 
-
 <br/>
 
 ## 🛠️ Technologies & Tools
