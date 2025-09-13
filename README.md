@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&theme=transparent&bg_color=00000000&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" />
-  <img src="https://streak-stats.demolab.com?user=nafistarik&theme=transparent&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&theme=transparent&bg_color=00000000&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF"  height="300px" />
+  <img src="https://streak-stats.demolab.com?user=nafistarik&theme=transparent&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF" height="300px" />
 </p>
 
 <p align="center">
