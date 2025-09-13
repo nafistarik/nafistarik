@@ -1,10 +1,10 @@
 <img src="https://github.com/user-attachments/assets/fe5b2f41-6349-4737-a471-adab9f76118f" alt="banner-nafistarik" />
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px"/>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"/>
   Hello, I'm <span style="color:#58A6FF">Nafis Tarik</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px"/>
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"/>
+</h2>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=💻+Frontend+Developer+%7C+🚀+Software+Engineer;⚡+MERN+Stack+Enthusiast+%7C+🧩+Problem+Solver" alt="Typing SVG" />
@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&theme=transparent&bg_color=00000000&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" width="49.5%" />
-  <img src="https://streak-stats.demolab.com?user=nafistarik&theme=transparent&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&theme=transparent&bg_color=00000000&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" />
+  <img src="https://streak-stats.demolab.com?user=nafistarik&theme=transparent&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF" />
 </p>
 
 <p align="center">
