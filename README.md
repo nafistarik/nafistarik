@@ -49,15 +49,14 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&theme=transparent&bg_color=00000000&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="49.5%" height="220rem" />
-  <img src="https://streak-stats.demolab.com?user=nafistarik&theme=transparent&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF" alt="GitHub Streak" width="49.5%" height="220rem" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafistarik&show_icons=true&theme=transparent&bg_color=00000000&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" width="49.5%" />
+  <img src="https://streak-stats.demolab.com?user=nafistarik&theme=transparent&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF" width="49.5%" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafistarik&theme=github-compact&bg_color=00000000&hide_border=true&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF" alt="Contribution Graph" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafistarik&theme=github-compact&bg_color=00000000&hide_border=true&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF" width="100%" />
 </p>
-<br/>
 
 ## 🌐 Connect With Me
 
