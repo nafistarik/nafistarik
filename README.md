@@ -19,7 +19,7 @@
 - 🌱 **Currently Learning:** MERN Stack  
 - 🎯 **Focused On:** Building scalable full-stack apps, mastering API integration & clean UI/UX  
 - 📚 **Active Projects:** Developing advanced frontend systems with performance optimization  
-- 🔗 **Portfolio:** [nafistarik.netlify.app](https://nafistarik.netlify.app)
+- 🔗 **Portfolio:** [nafistarik.vercel.app](https://nafistarik.vercel.app/)
 
 <br/>
 
