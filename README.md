@@ -1,27 +1,55 @@
+<!-- ========================================================= -->
+<!--                         BANNER                            -->
+<!-- ========================================================= -->
+
 <img src="https://github.com/user-attachments/assets/fe5b2f41-6349-4737-a471-adab9f76118f" alt="banner-nafistarik" />
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"/>
-  Hello, I'm <span style="color:#58A6FF">Nafis Tarik</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"/>
-</h2>
+<h1 align="center">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+  I'm Nafis Tarik
+</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=💻+Frontend+Developer+%7C+🚀+Software+Engineer;⚡+MERN+Stack+Enthusiast+%7C+🧩+Problem+Solver" alt="Typing SVG" />
+Frontend Developer • Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nafistarik&label=Profile%20views&color=58A6FF&style=for-the-badge&abbreviated=true" alt="profile-views"/>
+Building modern, responsive and scalable web applications with React, Next.js and JavaScript.
 </p>
 
-## 🚀 About Me  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Currently+Learning+Backend+Development;Node.js+%7C+Express+%7C+PostgreSQL;Always+Learning+New+Technologies" />
+</p>
 
-- 🌱 **Currently Learning:** MERN Stack  
-- 🎯 **Focused On:** Building scalable full-stack apps, mastering API integration & clean UI/UX  
-- 📚 **Active Projects:** Developing advanced frontend systems with performance optimization  
-- 🔗 **Portfolio:** [nafistarik.vercel.app](https://nafistarik.vercel.app/)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nafistarik&label=Profile+Views&style=for-the-badge&color=58A6FF"/>
+<img src="https://img.shields.io/github/followers/nafistarik?style=for-the-badge&color=58A6FF&label=Followers"/>
+</p>
 
-<br/>
+---
+
+# 👨‍💻 About Me
+
+I'm a passionate **Frontend Developer** who enjoys building clean, modern and user-friendly web applications.
+
+Currently, I'm expanding my knowledge into **Backend Development** to become a **Full Stack Software Engineer** with a strong understanding of APIs, databases and scalable application architecture.
+
+I enjoy learning new technologies, writing clean code, solving real-world problems and continuously improving my development workflow.
+
+---
+
+# 🚀 Quick Summary
+
+- 💼 Frontend Developer
+- 🌍 Based in Bangladesh
+- 🎓 B.Sc. in Electronics & Telecommunication Engineering
+- 🌱 Currently learning Backend Development
+- 💻 Passionate about React, Next.js & JavaScript
+- ⚡ Interested in Clean Architecture, UI/UX and Performance Optimization
+- 🤝 Open to Frontend & Full Stack opportunities
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -60,7 +88,8 @@
 
 ## 🌐 Connect With Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TarikNafis27921)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nafistarik)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdnafees.tarique/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tariknafis)
+<p>
+  <a href="https://nafistarik.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nafistarik"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nafistarik789@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
