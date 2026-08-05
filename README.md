@@ -46,6 +46,28 @@ I enjoy learning new technologies, writing clean code, solving real-world proble
 - ⚡ Interested in Clean Architecture, UI/UX and Performance Optimization
 - 🤝 Open to Frontend & Full Stack opportunities
 
+## 💼 Professional Experience
+
+### Junior Software Engineer
+**iFarmer**  
+*Sep 2025 – Present*
+
+- Developed scalable frontend applications using **React, Next.js, TypeScript, and Tailwind CSS**.
+- Integrated **REST APIs** enabling efficient data fetching, caching, and state management.
+- Built clean, modular, and reusable components following industry best practices and testing standards.
+- Collaborated in an agile development environment using **Git**, pull requests, and code reviews.
+- Improved application performance through optimization techniques such as **memoization** and **lazy loading**.
+
+### Software Engineer
+**Skyline Digital Solution**  
+*Jan 2025 – Sep 2025*
+
+- Built responsive, pixel-perfect user interfaces from **Figma** designs using **React** and **Tailwind CSS**.
+- Managed complex application state and API caching with **Redux Toolkit** and **RTK Query**.
+- Integrated REST APIs to deliver seamless data synchronization and dynamic user experiences.
+- Implemented smooth, interactive animations with **Framer Motion** to enhance usability and engagement.
+- Contributed to writing clean, maintainable, and scalable frontend code following modern development practices.
+
 ## 🛠️ Technologies & Tools
 
 <h4>✅ Frontend:</h4>
