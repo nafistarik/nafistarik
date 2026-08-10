@@ -75,4 +75,4 @@ I enjoy learning new technologies, writing clean code, solving real-world proble
 <h4>✅ Backend:</h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend" />
 <h4>✅ Tools & Others:</h4>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,figma,vercel,vscode,postman" alt="Tools & Others" /><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,figma,vercel,vscode,postman" alt="Tools & Others" />
