@@ -14,9 +14,9 @@ Frontend Developer • Software Engineer
 Building modern, responsive and scalable web applications with React, Next.js and JavaScript.
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Currently+Learning+Backend+Development;Node.js+%7C+Express+%7C+PostgreSQL;Always+Learning+New+Technologies" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://nafistarik.vercel.app" target="_blank">
